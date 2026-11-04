@@ -14,7 +14,7 @@
  * This specification defines test tasks for evaluating the codemap-organizer skill's
  * ability to help AI agents navigate and understand codebases efficiently.
  *
- * Target Repository: lossless-claude (https://github.com/RuneweaverStudios/lossless-claude)
+ * Target Repository: lossless-claude (https://github.com/austindixson/lossless-claude)
  * - ~1051 lines of TypeScript code
  * - MCP server for conversation recall with SQLite storage
  * - Tools: recall_grep, recall_describe, recall_sessions
